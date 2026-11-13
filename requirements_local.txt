@@ -1,0 +1,2 @@
+-e git+https://github.com/BonnerLab/bonner-libraries.git@2fbbb4b75e88e8e65a67e1a3199d20b27802eff8#egg=bonner-libraries
+-e .[dev]

@@ -1,0 +1,3 @@
+# deepjuice is a restricted dependency available from its author; this pin needs access to its
+# repository. See README (Python dependencies) for the commands that need it.
+deepjuice @ git+https://github.com/ColinConwell/DeepJuiceDev.git@bce7dca5bd47918a0b33bd4560ce62064ad8a9c2
